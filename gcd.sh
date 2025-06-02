@@ -29,5 +29,5 @@ while [ "$b" -ne 0 ]; do
   b=$r
 done
 
-echo "最大公約数は $a です。"
+echo "$a"
 
